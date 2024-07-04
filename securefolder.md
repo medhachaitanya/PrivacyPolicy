@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Secure Folder, Files and Encrypt app (hereby referred to as "Application") for Windows laptop/desktop devices that was created by MedhaChaitanya (hereby referred to as "Service Provider") as a Freemium (Free + Purchasable Addons) service. This service is intended for use "AS IS".
+This privacy policy applies to the Secure Folder, Files and Encrypt app and Easy Folder Lock (hereby referred to as "Application(s)") for Windows laptop/desktop devices that was created by MedhaChaitanya (hereby referred to as "Service Provider") as a Freemium (Free + Purchasable Addons) service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
